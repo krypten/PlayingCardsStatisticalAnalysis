@@ -32,24 +32,24 @@ Interquartile range(IQR) :- 	9.25<br/>
 The histogram show sums for the sampled card.
 
 ##### Frequency of the sampled distribution card values
-![histogram depicts the frequencies of the sampled distribution card values](https://github.com/krypten/PlayingCardsStatisticalAnalysis/blob/master/graph/sampled_relative_frequency.png "Histogram depicts the frequencies of the sampled distribution card values")
+![histogram depicts the frequencies of the sampled distribution card values](https://github.com/krypten/PlayingCardsStatisticalAnalysis/blob/master/graph/sampled_frequency.png "Histogram depicts the frequencies of the sampled distribution card values")
 
 ##### Normal Distribution of the sampled distribution card values
 ![histogram depicts distribution of the sampled card values](https://github.com/krypten/PlayingCardsStatisticalAnalysis/blob/master/graph/sampled_normal_distribution.png "Histogram depicts distribution of the sampled card values")
 
 ##### Questions
 
-Q: How are both the histograms different, and  why is this the case?
+Q: How are both the histograms different, and  why is this the case? <br/>
 A: 
 
 ### Estimates based on the sampled distribution
-Make some estimates about values you will get on future draws.
+Make some estimates about values you will get on future draws.<br/>
 
 
-Q. Within what range will you expect approximately 90% of your draw values to fall?
+Q. Within what range will you expect approximately 90% of your draw values to fall?<br/>
 A. 
 
-Q. What is the approximate probability that you will get a draw value of at least 20?
+Q. What is the approximate probability that you will get a draw value of at least 20?<br/>
 A.
 
 
